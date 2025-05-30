@@ -1,0 +1,49 @@
+{
+  "SectionCard": {
+    "New Customers": "عملاء جدد",
+    "Active Accounts": "الحسابات النشطة",
+    "Strong user retention": "الاحتفاظ القوي بالمستخدمين",
+    "Engagement exceed targets": "التفاعل يتجاوز الأهداف",
+    "Growth Rate": "معدل النمو",
+    "Steady performance increase": "زيادة ثابتة في الأداء",
+    "Meets growth projections": "يتماشى مع توقعات النمو",
+    "Today Total Revenue": "إجمالي الإيرادات اليوم",
+    "Trending up this month": "اتجاه تصاعدي هذا الشهر",
+    "Trending down this month": "اتجاه تنازلي هذا الشهر",
+    "Performance is steadily improving": "الأداء يتحسن باستمرار",
+    "Acquisition needs attention": "اكتساب المستخدمين يحتاج إلى الانتباه",
+    "trend_down": "انخفاض بمقدار {c}",
+    "this period": "هذه الفترة",
+    " ": " "
+  },
+  "DashboardChart": {
+    "Total Visitors": "إجمالي الزوار",
+    "Total for the last": "الإجمالي لآخر",
+    "90d": "٩٠ يومًا",
+    "30d": "٣٠ يومًا",
+    "7d": "٧ أيام",
+    "Last 3 months": "آخر ٣ أشهر",
+    "Last 30 days": "آخر ٣٠ يومًا",
+    "Last 7 days": "آخر ٧ أيام"
+  },
+  "Orders": {
+    "Orders": "الطلبات",
+    "Columns": "الأعمدة",
+    "Previous": "السابق",
+    "Next": "التالي",
+    "Filter emails": "تصفية البريد الإلكتروني...",
+    "Payment_id": "تم نسخ معرف الدفع إلى الحافظة."
+  },
+  "AppSidebar": {
+    "Dashboard app": "تطبيق لوحة التحكم",
+    "Dashboard": "لوحة التحكم",
+    "Charts": "الرسوم البيانية",
+    "Others": "أخرى"
+  },
+  "SimpleModal": {
+    "Cancel": "إلغاء",
+    "Continue": "متابعة",
+    "This is just a demo version of the dashboard": "هذه مجرد نسخة تجريبية من لوحة التحكم.",
+    "It can be fully customized and developed based on your specific needs and requirements": "يمكن تخصيصها وتطويرها بالكامل بناءً على احتياجاتك ومتطلباتك الخاصة."
+  }
+}

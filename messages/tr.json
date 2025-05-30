@@ -1,0 +1,49 @@
+{
+  "SectionCard": {
+    "New Customers": "Yeni Müşteriler",
+    "Active Accounts": "Aktif Hesaplar",
+    "Strong user retention": "Güçlü kullanıcı tutma",
+    "Engagement exceed targets": "Etkileşim hedefleri aştı",
+    "Growth Rate": "Büyüme Oranı",
+    "Steady performance increase": "İstikrarlı performans artışı",
+    "Meets growth projections": "Büyüme tahminlerini karşılıyor",
+    "Today Total Revenue": "Bugünün Toplam Geliri",
+    "Trending up this month": "Bu ay yükselişte",
+    "Trending down this month": "Bu ay düşüşte",
+    "Performance is steadily improving": "Performans istikrarlı bir şekilde artıyor",
+    "Acquisition needs attention": "Kullanıcı kazanımı dikkat gerektiriyor",
+    "trend_down": "{c} düşüş",
+    "this period": "bu dönem",
+    " ": " "
+  },
+  "DashboardChart": {
+    "Total Visitors": "Toplam Ziyaretçi",
+    "Total for the last": "Son dönemin toplamı",
+    "90d": "90 gün",
+    "30d": "30 gün",
+    "7d": "7 gün",
+    "Last 3 months": "Son 3 ay",
+    "Last 30 days": "Son 30 gün",
+    "Last 7 days": "Son 7 gün"
+  },
+  "Orders": {
+    "Orders": "Siparişler",
+    "Columns": "Sütunlar",
+    "Previous": "Önceki",
+    "Next": "Sonraki",
+    "Filter emails": "E-postaları filtrele...",
+    "Payment_id": "Ödeme kimliği panoya kopyalandı."
+  },
+  "AppSidebar": {
+    "Dashboard app": "Gösterge Paneli Uygulaması",
+    "Dashboard": "Gösterge Paneli",
+    "Charts": "Grafikler",
+    "Others": "Diğerleri"
+  },
+  "SimpleModal": {
+    "Cancel": "iptal",
+    "Continue": "devam",
+    "This is just a demo version of the dashboard": "Bu yalnızca kontrol panelinin demo sürümüdür.",
+    "It can be fully customized and developed based on your specific needs and requirements": "Özel ihtiyaç ve gereksinimlerinize göre tamamen özelleştirilebilir ve geliştirilebilir."
+  }
+}

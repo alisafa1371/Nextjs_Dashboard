@@ -1,0 +1,49 @@
+{
+  "SectionCard": {
+    "New Customers": "New Customers",
+    "Active Accounts": "Active Accounts",
+    "Strong user retention": "Strong user retention",
+    "Engagement exceed targets": "Engagement exceed targets",
+    "Growth Rate": "Growth Rate",
+    "Steady performance increase": "Steady performance increase",
+    "Meets growth projections": "Meets growth projections",
+    "Today Total Revenue": "Today Total Revenue",
+    "Trending up this month": "Trending up this month",
+    "Trending down this month": "Trending down this month",
+    "Performance is steadily improving": "Performance is steadily improving",
+    "Acquisition needs attention": "Acquisition needs attention",
+    "trend_down": "Down {c}",
+    "this period": "this period",
+    " ": " "
+  },
+  "DashboardChart": {
+    "Total Visitors": "Total Visitors",
+    "Total for the last": "Total for the last",
+    "90d": "90d",
+    "30d": "30d",
+    "7d": "7d",
+    "Last 3 months": "Last 3 months",
+    "Last 30 days": "Last 30 days",
+    "Last 7 days": "Last 7 days"
+  },
+  "Orders": {
+    "Orders": "Orders",
+    "Columns": "Columns",
+    "Previous": "Previous",
+    "Next": "Next",
+    "Filter emails": "Filter emails...",
+    "Payment_id": "Payment ID copied to clipboard."
+  },
+  "AppSidebar": {
+    "Dashboard app": "Dashboard app",
+    "Dashboard": "Dashboard",
+    "Charts": "Charts",
+    "Others": "Others"
+  },
+  "SimpleModal": {
+    "Cancel": "Cancel",
+    "Continue": "Continue",
+    "This is just a demo version of the dashboard": "This is just a demo version of the dashboard",
+    "It can be fully customized and developed based on your specific needs and requirements": "It can be fully customized and developed based on your specific needs and requirements."
+  }
+}

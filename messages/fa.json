@@ -1,0 +1,49 @@
+{
+  "SectionCard": {
+    "New Customers": "مشتریان جدید",
+    "Active Accounts": "حساب‌های فعال",
+    "Strong user retention": "حفظ قوی کاربران",
+    "Engagement exceed targets": "تعامل فراتر از اهداف",
+    "Growth Rate": "نرخ رشد",
+    "Steady performance increase": "افزایش پایدار عملکرد",
+    "Meets growth projections": "مطابق با پیش‌بینی‌های رشد",
+    "Today Total Revenue": "درآمد کل امروز",
+    "Trending up this month": "روند صعودی این ماه",
+    "Trending down this month": "روند نزولی این ماه",
+    "Performance is steadily improving": "عملکرد به صورت پیوسته در حال بهبود است",
+    "Acquisition needs attention": "جذب کاربران نیاز به توجه دارد",
+    "trend_down": "کاهش {c}",
+    "this period": "در این دوره",
+    " ": " "
+  },
+  "DashboardChart": {
+    "Total Visitors": "تعداد کل بازدیدکنندگان",
+    "Total for the last": "جمع کل برای",
+    "90d": "۹۰ روز",
+    "30d": "۳۰ روز",
+    "7d": "۷ روز",
+    "Last 3 months": "۳ ماه گذشته",
+    "Last 30 days": "۳۰ روز گذشته",
+    "Last 7 days": "۷ روز گذشته"
+  },
+  "Orders": {
+    "Orders": "سفارش‌ها",
+    "Columns": "ستون‌ها",
+    "Previous": "قبلی",
+    "Next": "بعدی",
+    "Filter emails": "فیلتر ایمیل‌ها...",
+    "Payment_id": "شناسه پرداخت در کلیپ‌بورد کپی شد."
+  },
+  "AppSidebar": {
+    "Dashboard app": "اپ داشبورد",
+    "Dashboard": "داشبورد",
+    "Charts": "چارت‌ها",
+    "Others": "سایر"
+  },
+  "SimpleModal": {
+    "Cancel": "لغو",
+    "Continue": "ادامه",
+    "This is just a demo version of the dashboard": "این فقط نسخه نمایشی داشبورد است.",
+    "It can be fully customized and developed based on your specific needs and requirements": "می‌توان آن را به طور کامل بر اساس نیازها و خواسته‌های خاص شما سفارشی‌سازی و توسعه داد."
+  }
+}
