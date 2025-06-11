@@ -7,9 +7,9 @@ import { LanguageSelector } from "./language-selector";
 
 export function SiteHeader({ locale }: { locale: string }) {
   return (
-    <header className="flex h-(--header-height) shrink-0 items-center gap-2 border-b transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-(--header-height)">
+    <header className="flex md:h-(--header-height) shrink-0 items-center gap-2 border-b transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-(--header-height) h-auto">
       <div
-        className={`flex w-full items-center gap-1 px-4 lg:gap-2 lg:px-6 ${
+        className={`flex flex-wrap justify-between w-full items-center gap-5 px-4 md:gap-2 lg:px-6 ${
           locale === "fa" || locale === "ar" ? "flex-row-reverse" : ""
         }`}
       >
@@ -22,7 +22,7 @@ export function SiteHeader({ locale }: { locale: string }) {
         <div
           className={`${
             locale === "fa" || locale === "ar" ? "mr-auto" : "ml-auto"
-          } flex items-center gap-4`}
+          } flex items-center gap-4 flex-wrap justify-end`}
         >
           <Button variant="ghost" asChild size="sm" className="hidden sm:flex">
             <a
