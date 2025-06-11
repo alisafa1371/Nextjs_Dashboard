@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+"A cutting-edge admin dashboard built with Next.js 15, featuring a sleek UI powered by shadcn/ui and Tailwind CSS. This fully responsive template supports multilingual content, dark/light themes, and includes essential admin components like data tables, analytics charts, and interactive modals. Perfect for SaaS dashboards, CMS backends, or analytics platforms."
+
+Key Features List:
+Core Framework
+✅ Next.js 15 (App Router)
+✅ React 19 with Server Components
+✅ TypeScript
+
+UI & Styling
+🎨 shadcn/ui component library
+💅 Tailwind CSS v4 with JIT compiler
+🌓 Dark/light mode with next-themes
+🌐 Multilingual support (next-intl)
+
+Interactive Components
+📊 Recharts for data visualization
+📦 Sortable DnD tables (@dnd-kit)
+🔄 TanStack React Table v8
+💬 Sonner toast notifications
+🖼️ Radix UI dialogs & modals
+
+Modern Tooling
+⚡ Turbopack optimized dev server
+🔍 ESLint + TypeScript checking
+📱 Fully responsive design
+🔄 Real-time data capabilities
+
+Bonus Features
+🔢 Custom form components
+🔄 Drag-and-drop interfaces
+📱 Mobile-optimized layout
+🎚️ Theme customization
 
 ## Getting Started
 
